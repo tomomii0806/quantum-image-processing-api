@@ -2,4 +2,5 @@
 
 This project is a FastAPI application that provides an API for retrieving JPEG images stored in Azure Blob Storage. The API is designed to be hosted on Azure App Service.
 
+Please see `QIP_slides.pdf` for the project summery and results.
 
